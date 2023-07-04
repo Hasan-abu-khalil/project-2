@@ -356,6 +356,7 @@ nav div a:hover {
 
 .ref-right-side {
 
+    width: 50%;
     margin: auto;
     overflow: hidden;
 }
@@ -685,8 +686,12 @@ footer h3 span{
 
     }
 
+    .ref-right-side{
+        width: 350px;
+    }
     .ref-right-side img {
-        height: 100%;
+        height: 320px;
+        width: 320px;
     }
 
 
@@ -881,10 +886,14 @@ footer h3 span{
         font-size: 30px;
 
     }
-    
+    .ref-right-side{
+        width: 300px;
+        border-radius: 50%;
+        
+    }
     .ref-right-side img {
-       
-        height: 100%;
+        width: 280px;
+        height: 280px;
     }
 
 
